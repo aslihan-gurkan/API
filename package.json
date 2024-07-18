@@ -1,0 +1,16 @@
+{
+    "name": "e-code-api",
+    "version": "1.0.0",
+    "description": "A simple API for E-Codes",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "body-parser": "^1.19.0",
+      "cors": "^2.8.5"
+    },
+    "author": "Aslihan Gurkan",
+    "license": "ISC"
+  }
