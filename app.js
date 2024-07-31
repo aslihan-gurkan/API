@@ -18,8 +18,122 @@ const eCodes = [
     {
         "code": "101",
         "name": "Riboflavin",
-        "Description": "Vitamin B2",
-        "Category": "Harmless"
+        "Description": "",
+        "Category": ""
+    },
+    {
+        "code": "101",
+        "name": "Riboflavin",
+        "Description": "",
+        "Category": ""
+    },
+    {
+        "code": "101",
+        "name": "Riboflavin",
+        "Description": "",
+        "Category": ""
+    },
+    {
+        "code": "101",
+        "name": "Riboflavin",
+        "Description": "",
+        "Category": ""
+    },
+    {
+        "code": "101",
+        "name": "Riboflavin",
+        "Description": "",
+        "Category": ""
+    },
+    {
+        "code": "101",
+        "name": "Riboflavin",
+        "Description": "",
+        "Category": ""
+    },
+    {
+        "code": "101",
+        "name": "Riboflavin",
+        "Description": "",
+        "Category": ""
+    },
+    {
+        "code": "101",
+        "name": "Riboflavin",
+        "Description": "",
+        "Category": ""
+    },
+    {
+        "code": "101",
+        "name": "Riboflavin",
+        "Description": "",
+        "Category": ""
+    },
+    {
+        "code": "101",
+        "name": "Riboflavin",
+        "Description": "",
+        "Category": ""
+    },
+    {
+        "code": "101",
+        "name": "Riboflavin",
+        "Description": "",
+        "Category": ""
+    },
+    {
+        "code": "101",
+        "name": "Riboflavin",
+        "Description": "",
+        "Category": ""
+    },
+    {
+        "code": "101",
+        "name": "Riboflavin",
+        "Description": "",
+        "Category": ""
+    },
+    {
+        "code": "101",
+        "name": "Riboflavin",
+        "Description": "",
+        "Category": ""
+    },
+    {
+        "code": "101",
+        "name": "Riboflavin",
+        "Description": "",
+        "Category": ""
+    },
+    {
+        "code": "101",
+        "name": "Riboflavin",
+        "Description": "",
+        "Category": ""
+    },
+    {
+        "code": "101",
+        "name": "Riboflavin",
+        "Description": "",
+        "Category": ""
+    },
+    {
+        "code": "101",
+        "name": "Riboflavin",
+        "Description": "",
+        "Category": ""
+    },
+    {
+        "code": "101",
+        "name": "Riboflavin",
+        "Description": "",
+        "Category": ""
+    },
+    {
+        "code": "101",
+        "name": "Riboflavin",
+        "Description": "",
+        "Category": ""
     },
 
 ];
@@ -30,5 +144,5 @@ app.get('/api/ecodes', (req, res) =>
 });
 
 app.listen(port, () => {
-    console.log('E-Code API listening at http:/Localhost:${port}');
+    console.log('E-Code API listening at http://localhost:${port}');
 });
